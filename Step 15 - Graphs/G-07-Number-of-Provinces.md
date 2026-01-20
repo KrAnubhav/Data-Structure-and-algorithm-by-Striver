@@ -1,6 +1,6 @@
 ---
 title: Number of Provinces (LeetCode 547)
-lecture: G-7
+lecture: G-07
 topic: Graphs
 tags: [graph, dfs, bfs, connected-components, leetcode]
 difficulty: Medium
@@ -8,12 +8,12 @@ created: 2026-01-20
 updated: 2026-01-20
 ---
 
-# G-7. Number of Provinces
+# G-07. Number of Provinces
 
-> **Lecture:** G-7
+> **Lecture:** G-07
 > **Topic:** [[Step 15 - Graphs/README|Graphs]]
-> **Previous:** [[Step 15 - Graphs/G-6-DFS|G-6. DFS Traversal]]
-> **Next:** [[Step 15 - Graphs/G-8-Connected-Components-Problem|G-8. Connected Components Problem (Coming Soon)]]
+> **Previous:** [[Step 15 - Graphs/G-06-DFS|G-06. DFS Traversal]]
+> **Next:** [[Step 15 - Graphs/G-08-Number-of-Islands|G-08. Number of Islands (Next)]]
 
 ---
 

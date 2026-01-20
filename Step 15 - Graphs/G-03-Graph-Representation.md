@@ -1,6 +1,6 @@
 ---
 title: Graph Representation in Java | Adjacency Matrix vs List
-lecture: G-2
+lecture: G-02
 topic: Graphs
 tags: [graph, representation, java, matrix, list, weighted]
 difficulty: Easy
@@ -8,12 +8,12 @@ created: 2026-01-20
 updated: 2026-01-20
 ---
 
-# G-2. Graph Representation in Java | Adjacency Matrix & List
+# G-02. Graph Representation in Java | Adjacency Matrix & List
 
-> **Lecture:** G-2
+> **Lecture:** G-02
 > **Topic:** [[Step 15 - Graphs/README|Graphs]]
-> **Previous:** [[Step 15 - Graphs/G-1-Introduction-to-Graph|G-1. Introduction]]
-> **Next:** [[Step 15 - Graphs/G-3-Connected-Components|G-3. Connected Components (Next)]]
+> **Previous:** [[Step 15 - Graphs/G-01-Introduction-to-Graph|G-01. Introduction]]
+> **Next:** [[Step 15 - Graphs/G-03-Connected-Components|G-03. Connected Components (Next)]]
 
 ---
 

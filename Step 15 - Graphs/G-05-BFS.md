@@ -1,6 +1,6 @@
 ---
 title: BFS Traversal (Breadth First Search)
-lecture: G-5
+lecture: G-05
 topic: Graphs
 tags: [graph, bfs, traversal, queue, level-order]
 difficulty: Easy
@@ -8,12 +8,12 @@ created: 2026-01-20
 updated: 2026-01-20
 ---
 
-# G-5. BFS Traversal (Breadth First Search)
+# G-05. BFS Traversal (Breadth First Search)
 
-> **Lecture:** G-5
+> **Lecture:** G-05
 > **Topic:** [[Step 15 - Graphs/README|Graphs]]
-> **Previous:** [[Step 15 - Graphs/G-4-Connected-Components|G-4. Connected Components]]
-> **Next:** [[Step 15 - Graphs/G-6-DFS|G-6. DFS Traversal (Next - Coming Soon)]]
+> **Previous:** [[Step 15 - Graphs/G-04-Connected-Components|G-04. Connected Components]]
+> **Next:** [[Step 15 - Graphs/G-06-DFS|G-06. DFS Traversal (Next - Coming Soon)]]
 
 ---
 
@@ -156,7 +156,7 @@ class Solution {
 
 > [!important] Note on Component Handling
 > The above code assumes a single connected component starting from `0`.
-> If the graph has multiple components (as learned in [[Step 15 - Graphs/G-4-Connected-Components|G-4]]), you need to wrap the BFS call inside the `for(i=0 to N)` loop!
+> If the graph has multiple components (as learned in [[Step 15 - Graphs/G-04-Connected-Components|G-04]]), you need to wrap the BFS call inside the `for(i=0 to N)` loop!
 
 ---
 

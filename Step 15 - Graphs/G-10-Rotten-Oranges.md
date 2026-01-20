@@ -12,7 +12,7 @@ updated: 2026-01-20
 
 > **Lecture:** G-10
 > **Topic:** [[Step 15 - Graphs/README|Graphs]]
-> **Previous:** [[Step 15 - Graphs/G-9-Flood-Fill|G-9. Flood Fill]]
+> **Previous:** [[Step 15 - Graphs/G-09-Flood-Fill|G-09. Flood Fill]]
 > **Next:** [[Step 15 - Graphs/G-11-Detect-Cycle-BFS|G-11. Detect Cycle in Undirected Graph (BFS)]]
 
 ---

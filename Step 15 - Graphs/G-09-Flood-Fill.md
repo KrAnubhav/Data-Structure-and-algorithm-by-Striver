@@ -1,6 +1,6 @@
 ---
 title: Flood Fill Algorithm (LeetCode 733)
-lecture: G-9
+lecture: G-09
 topic: Graphs
 tags: [graph, dfs, bfs, matrix, flood-fill, 4-directions]
 difficulty: Easy
@@ -8,11 +8,11 @@ created: 2026-01-20
 updated: 2026-01-20
 ---
 
-# G-9. Flood Fill Algorithm
+# G-09. Flood Fill Algorithm
 
-> **Lecture:** G-9
+> **Lecture:** G-09
 > **Topic:** [[Step 15 - Graphs/README|Graphs]]
-> **Previous:** [[Step 15 - Graphs/G-8-Number-of-Islands|G-8. Number of Islands]]
+> **Previous:** [[Step 15 - Graphs/G-08-Number-of-Islands|G-08. Number of Islands]]
 > **Next:** [[Step 15 - Graphs/G-10-Rotten-Oranges|G-10. Rotten Oranges (Coming Soon)]]
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Connected Components in a Graph
-lecture: G-4
+lecture: G-04
 topic: Graphs
 tags: [graph, connected-components, traversal, logic]
 difficulty: Easy
@@ -8,12 +8,12 @@ created: 2026-01-20
 updated: 2026-01-20
 ---
 
-# G-4. Connected Components in a Graph
+# G-04. Connected Components in a Graph
 
-> **Lecture:** G-4
+> **Lecture:** G-04
 > **Topic:** [[Step 15 - Graphs/README|Graphs]]
-> **Previous:** [[Step 15 - Graphs/G-3-Graph-Representation|G-3. Graph Representation (Previous)]]
-> **Next:** [[Step 15 - Graphs/G-5-BFS|G-5. BFS Traversal (Next)]]
+> **Previous:** [[Step 15 - Graphs/G-03-Graph-Representation|G-03. Graph Representation (Previous)]]
+> **Next:** [[Step 15 - Graphs/G-05-BFS|G-05. BFS Traversal (Next)]]
 
 ---
 

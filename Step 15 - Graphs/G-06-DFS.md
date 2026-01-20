@@ -1,6 +1,6 @@
 ---
 title: DFS Traversal (Depth First Search)
-lecture: G-6
+lecture: G-06
 topic: Graphs
 tags: [graph, dfs, traversal, recursion, backtracking]
 difficulty: Easy
@@ -8,12 +8,12 @@ created: 2026-01-20
 updated: 2026-01-20
 ---
 
-# G-6. DFS Traversal (Depth First Search)
+# G-06. DFS Traversal (Depth First Search)
 
-> **Lecture:** G-6
+> **Lecture:** G-06
 > **Topic:** [[Step 15 - Graphs/README|Graphs]]
-> **Previous:** [[Step 15 - Graphs/G-5-BFS|G-5. BFS Traversal]]
-> **Next:** [[Step 15 - Graphs/G-7-Problems|G-7. Problems on BFS/DFS (Next)]]
+> **Previous:** [[Step 15 - Graphs/G-05-BFS|G-05. BFS Traversal]]
+> **Next:** [[Step 15 - Graphs/G-07-Number-of-Provinces|G-07. Number of Provinces (Next)]]
 
 ---
 

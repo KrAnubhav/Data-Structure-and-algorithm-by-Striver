@@ -1,6 +1,6 @@
 ---
 title: Number of Islands (LeetCode 200)
-lecture: G-8
+lecture: G-08
 topic: Graphs
 tags: [graph, bfs, dfs, matrix, grid, islands, 8-directions]
 difficulty: Medium
@@ -8,12 +8,12 @@ created: 2026-01-20
 updated: 2026-01-20
 ---
 
-# G-8. Number of Islands
+# G-08. Number of Islands
 
-> **Lecture:** G-8
+> **Lecture:** G-08
 > **Topic:** [[Step 15 - Graphs/README|Graphs]]
-> **Previous:** [[Step 15 - Graphs/G-7-Number-of-Provinces|G-7. Number of Provinces]]
-> **Next:** [[Step 15 - Graphs/G-9-Flood-Fill|G-9. Flood Fill (Coming Soon)]]
+> **Previous:** [[Step 15 - Graphs/G-07-Number-of-Provinces|G-07. Number of Provinces]]
+> **Next:** [[Step 15 - Graphs/G-09-Flood-Fill|G-09. Flood Fill (Coming Soon)]]
 
 ---
 

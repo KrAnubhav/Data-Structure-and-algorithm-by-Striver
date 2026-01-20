@@ -1,4 +1,4 @@
-# G-1. Introduction to Graph | Types | Different Conventions Used
+# G-01. Introduction to Graph | Types | Different Conventions Used
 
 ## 📚 What is a Graph?
 
