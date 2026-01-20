@@ -1,0 +1,13 @@
+{
+    "alwaysUpdateLinks": true,
+    "newFileLocation": "current",
+    "attachmentFolderPath": "Resources",
+    "showFrontmatter": true,
+    "foldHeading": true,
+    "foldIndent": true,
+    "showLineNumber": true,
+    "spellcheck": true,
+    "strictLineBreaks": false,
+    "defaultViewMode": "source",
+    "livePreview": true
+}
